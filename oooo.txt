@@ -1,0 +1,1 @@
+okay so o have a project like .py files where if there is an data then the codes performe data analysis functions like- Cleaning( remove- missing values, duplicate values, no response values)
